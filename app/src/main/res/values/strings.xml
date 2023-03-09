@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CuadranteCompose</string>
+    <string name="titulo_1">Desayuno</string>
+    <string name="descripcion_1">Es la parte del día mas importante, antes de realizar cualquier actividad.</string>
+    <string name="titulo_2">Almuerzo</string>
+    <string name="descripcion_2">No se debe dejar pasar por nada.</string>
+    <string name="titulo_3">Comida</string>
+    <string name="descripcion_3">Esta comida marca la mitad de tu día, es la que te da las energias de seguir.</string>
+    <string name="titulo_4">Cena</string>
+    <string name="descripcion_4">La cena es la que marca el final de nuestro día, es el broche de Oro.</string>
+</resources>
